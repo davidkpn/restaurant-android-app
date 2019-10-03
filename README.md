@@ -1,4 +1,4 @@
-# Resturant Waiters - Bar application
+# Restaurant Waiters - Bar application
 
 this kivy application can run cross-platform thanks to the kivy python library.
 
